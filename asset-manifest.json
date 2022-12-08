@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shop-interior/static/css/main.63664e32.css",
+    "main.js": "/shop-interior/static/js/main.df46dd24.js",
+    "static/media/bed3.png": "/shop-interior/static/media/bed3.60e50c9e78b93013b6d5.png",
+    "static/media/bed6.png": "/shop-interior/static/media/bed6.1fd4331e184ba4d6269a.png",
+    "static/media/bed5.png": "/shop-interior/static/media/bed5.957e4b642f0edf9de48a.png",
+    "static/media/bed1.png": "/shop-interior/static/media/bed1.b152ec55afc7644f1fba.png",
+    "static/media/bed4.png": "/shop-interior/static/media/bed4.70e93eb904daab1d6d5b.png",
+    "static/media/bed2.png": "/shop-interior/static/media/bed2.5910df708a09ddc9b61c.png",
+    "static/media/coolicon.svg": "/shop-interior/static/media/coolicon.8fcaeb5baf510ecfa394f469a743aa87.svg",
+    "index.html": "/shop-interior/index.html",
+    "static/media/Vector.svg": "/shop-interior/static/media/Vector.289dd0c13ede3694e44447e3142786f7.svg",
+    "main.63664e32.css.map": "/shop-interior/static/css/main.63664e32.css.map",
+    "main.df46dd24.js.map": "/shop-interior/static/js/main.df46dd24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63664e32.css",
+    "static/js/main.df46dd24.js"
+  ]
+}
