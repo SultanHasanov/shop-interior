@@ -4,3 +4,12 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+
+.error {
+    text-align: center;
+}
+
+.error_pages {
+    color:blue;
+    text-decoration:underline;
+}
