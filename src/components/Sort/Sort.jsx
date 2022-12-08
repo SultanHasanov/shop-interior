@@ -10,8 +10,8 @@ const Sort = ({ select, setSelect }) => {
   return (
     <div className={styles.sort}>
       <select value={select} onChange={handleSelect}>
-        <option value="сперва дешевле">Порядок: сперва дешевле</option>
-        <option value="сперва дороже">Порядок: сперва дороже</option>
+        <option value="сперва дороже">Порядок: сперва дешевле</option>
+        <option value="сперва дешевле">Порядок: сперва дороже</option>
       </select>
     </div>
   );
