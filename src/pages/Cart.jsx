@@ -28,12 +28,14 @@ const Cart = () => {
             <CartItem key={item.id} {...item} />
           ))}
         </div>
+      <div className={styles.nav_footer_body}>
         <span onClick={onClickClear} className={styles.nav_footer}>
           Очистить корзину
         </span>
         <Link to="/">
           <span className={styles.nav_footer_2}>Продолжить покупки</span>
         </Link>
+      </div>
       </div>
       <div className={styles.order}>
         <form>
