@@ -20,10 +20,16 @@
         display: flex
         justify-content: space-between
         flex-direction: column
+    @media( max-width:  375px)
+        .desc_body
+            height: 150px
     .desc_count
         width: 65%
         display: flex
         justify-content: space-between
+    @media( max-width:  375px)
+        .desc_count
+            width: 40%
 
 hr
     width: 786px
@@ -72,3 +78,9 @@ hr
     display: flex
     justify-content: space-between
     width: 200px
+
+@media ( max-width: 375px )
+    .product
+        img
+            display: none
+    

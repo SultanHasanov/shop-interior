@@ -16,6 +16,7 @@
         opacity: 0
         cursor: pointer
         color: #C4C4C4
+    
 
     &:hover
         .iconCart
@@ -29,6 +30,8 @@
         opacity: 0
         cursor: pointer
         color: #C4C4C4
+    
+
     &:hover
         .iconFavorites
             opacity: 1
@@ -36,5 +39,17 @@
 @media (max-width: 820px)
     .card
         img
-            width: 330px
+            width: 300px
             height: 250px
+@media ( max-width: 375px )
+        .card
+            .iconFavorites
+                left: 25%
+@media ( max-width: 375px )
+        .card
+            .iconFavorites
+                left: 25%
+@media ( max-width: 375px )
+        .card
+            .iconCart
+                left: 18%
