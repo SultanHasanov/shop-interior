@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/shop-interior/static/css/main.082c670e.css",
+    "main.css": "/shop-interior/static/css/main.9eacb924.css",
     "main.js": "/shop-interior/static/js/main.b40b9792.js",
     "static/media/bed3.png": "/shop-interior/static/media/bed3.60e50c9e78b93013b6d5.png",
     "static/media/bed6.png": "/shop-interior/static/media/bed6.1fd4331e184ba4d6269a.png",
@@ -11,11 +11,11 @@
     "static/media/coolicon.svg": "/shop-interior/static/media/coolicon.8fcaeb5baf510ecfa394f469a743aa87.svg",
     "index.html": "/shop-interior/index.html",
     "static/media/Vector.svg": "/shop-interior/static/media/Vector.289dd0c13ede3694e44447e3142786f7.svg",
-    "main.082c670e.css.map": "/shop-interior/static/css/main.082c670e.css.map",
+    "main.9eacb924.css.map": "/shop-interior/static/css/main.9eacb924.css.map",
     "main.b40b9792.js.map": "/shop-interior/static/js/main.b40b9792.js.map"
   },
   "entrypoints": [
-    "static/css/main.082c670e.css",
+    "static/css/main.9eacb924.css",
     "static/js/main.b40b9792.js"
   ]
 }
