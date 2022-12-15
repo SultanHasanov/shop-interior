@@ -8,6 +8,7 @@ import { AiOutlineUp, AiOutlineDown } from "react-icons/ai";
 const CartItem = ({ count, id, price, name, description, image }) => {
   const dispatch = useDispatch();
 
+
   const onClickPlus = () => {
     if (count !== 3) {
       dispatch(

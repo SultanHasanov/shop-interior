@@ -1,7 +1,6 @@
 .product
     margin-top: 25px
     display: flex
-    width: 400px
 
     margin-bottom: 32px
     img
@@ -26,20 +25,20 @@
             height: 150px
             margin: 0 50px 0 10px
     .desc_count
-        width: 65%
+        width: 67%
         display: flex
         justify-content: space-between
     @media( max-width:  420px)
         .desc_count
-            width: 100%
+            width: min-content
 
 hr
-    width: 786px
+    width: 767px
     height: 0px
     border: 0.5px solid #CACDD8
 @media( max-width: 420px )
     hr
-        width: 410px
+        width: 398px
 
 .icon_plus
     width: 10px
@@ -66,12 +65,11 @@ hr
     display: flex
     justify-content: space-evenly
     align-items: center
+@media ( max-width: 420px )
+    .count_body
+        width: 63px
 
-
-    .icon_body
-        display: flex
-        flex-direction: column
-        justify-content: space-between
+    
 
 .remove_product
     text-decoration: underline
@@ -90,3 +88,7 @@ hr
     .product
         img
             display: none
+.icon_body
+        display: flex
+        flex-direction: column
+        justify-content: space-between
